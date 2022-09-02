@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hendr/AndroidStudioProjects/Tictactoe2/app/src/main/res/drawable/anim_win.xml" value="0.1" />
+        <entry key="..\:/Users/hendr/AndroidStudioProjects/Tictactoe2/app/src/main/res/drawable/bg_btn.xml" value="0.1375" />
+        <entry key="..\:/Users/hendr/AndroidStudioProjects/Tictactoe2/app/src/main/res/drawable/bg_cell_chessboard.xml" value="0.1375" />
+        <entry key="..\:/Users/hendr/AndroidStudioProjects/Tictactoe2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/hendr/AndroidStudioProjects/Tictactoe2/app/src/main/res/layout/cell.xml" value="0.4171875" />
+        <entry key="..\:/Users/hendr/AndroidStudioProjects/Tictactoe2/app/src/main/res/layout/fragment_game.xml" value="0.12" />
+        <entry key="..\:/Users/hendr/AndroidStudioProjects/Tictactoe2/app/src/main/res/layout/fragment_start.xml" value="0.4171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
